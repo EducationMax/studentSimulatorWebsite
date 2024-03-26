@@ -1,0 +1,60 @@
+{
+  "name": "Ternopil Volodymyr Hnatiuk National Pedagogical University",
+  "short_name": "TNPU",
+  "start_url": "/",
+  "author": "Maksym Bazivolyak",
+  "developer": {
+      "name": "Maksym Bazivolyak"
+  },
+  "version": "1.0.0",
+  "version_name": "1.0 TNPU",
+  "manifest_version": 1,
+  "default_locale": "en",
+  "theme_color": "#02021e",
+  "display": "standalone",
+  "display_override": ["window-control-overlay", "standalone"],
+  "background_color": "#0066b0",
+  "description": "Listen any courses with professionals from TNPU Ternopil Volodymyr Hnatiuk National Pedagogical University",
+  "icons": [
+    {
+      "src": "manifest/icons/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "manifest/icons/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "manifest/icons/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "manifest/icons/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "manifest/icons/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "manifest/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "manifest/icons/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "manifest/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
